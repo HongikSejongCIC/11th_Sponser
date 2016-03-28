@@ -1,7 +1,7 @@
 # 11th_Sponser
 
                                                <a blind date program>                                   
-팀  명: 11th_Sponser
+팀  명: 11th_Sponser \n
 구성원: 주한울 최원석 최효준
 
 Team Project
